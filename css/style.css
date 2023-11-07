@@ -1,0 +1,69 @@
+@import url(/css/reset.css);
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    width: 100vw;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(./background/Netflix.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list-wrapper {
+    background-color: white;
+    width: 72%;
+    margin: 16% auto;
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+}
+
+.svg-top {
+    width: 30%;
+    padding-top: 1.5rem;
+}
+
+hr {
+    border: 1.5px solid black;
+    border-radius: 3px;
+    width: 90%;
+}
+
+.video-wrapper {
+    max-width: 90%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    align-items: center;
+}
+
+/* iframe {
+    width: 100%;
+} */
+
+h2 {
+    font-size: 1.7rem;
+    font-weight: 700;
+    padding-bottom: 1rem;
+}
+
+h3 {
+    font-weight: 200;
+    padding-bottom: 1rem;
+}
+
+p {
+    line-height: 1.5rem;
+}
+
+.svg-bottom {
+    width: 30%;
+    padding-bottom: 1.5rem;
+}
