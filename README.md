@@ -4,7 +4,7 @@
 
 ## Project Purpose
 
-🐐 Thank you to all my colleagues who contributed to this project that I, as a team, created. I had designed the UX/UI for the project, and I decided to code a page of it, resulting in a great outcome. Thanks to everyone who supported this project.
+🐐 As a team, we embarked on this project, and I had the pleasure of crafting its UX/UI designs. I decided to roll up my sleeves and code a page, and the result turned out to be quite delightful! I want to extend my heartfelt thanks to all my fantastic colleagues who supported this project. Stay tuned for more exciting updates!
 
 ## Project Screenshot
 
