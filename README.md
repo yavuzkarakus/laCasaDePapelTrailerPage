@@ -8,7 +8,7 @@
 
 ## Project Screenshot
 
-![Trailer List Screenshot]()
+![Trailer List Screenshot](https://github.com/yavuzkarakus/laCasaDePapelTrailerPage/blob/master/la-casa-de-papel-trailer-list-page-screenshot.png)
 
 ## Project Features
 
