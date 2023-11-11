@@ -1,6 +1,6 @@
 # Project Name: La Casa de Papel Trailer List
 
-👋 Hello there!
+🤩 Hello there!
 
 ## Project Purpose
 
